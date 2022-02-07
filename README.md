@@ -29,3 +29,18 @@ print("Hello NLP!")
 6. [基于军事知识图谱的问答系统](https://github.com/liuhuanyong/QAonMilitaryKG)
 7. [基于医疗垂直领域的知识问答系统](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph)
 8. [知识图谱-小例](https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3)
+
+
+**地址画像:**
+
+中文地址：
+  1. [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR)
+  2. [Pyunit-Address](https://github.com/PyUnit/pyunit-address)
+3. [地址元素解析](https://github.com/yihenglu/chinese-address-segment)
+4. [中文地址切分及补全](https://github.com/tidalmelon/addrseg)
+5. [CCKS2021中文地址要素解析](https://github.com/xueyouluo/ccks2021-track2-code)
+6. [CCKS2021中文地址相关性](https://github.com/wodejiafeiyu/ccks2021-track3-top1)
+7. [中文地址全称解析](https://github.com/orgatAI/address-parser)
+8. [中文地址识别](https://github.com/gump1368/address-recognition)
+9. [中文地址标准化](https://github.com/zzd1990421/AddressFormat)
+10. 
