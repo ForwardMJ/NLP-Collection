@@ -33,9 +33,9 @@ print("Hello NLP!")
 
 **地址画像:**
 
-中文地址：
-  1. [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR)
-  2. [Pyunit-Address](https://github.com/PyUnit/pyunit-address)
+<center>中文地址</center>
+1. [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR)
+2. [Pyunit-Address](https://github.com/PyUnit/pyunit-address)
 3. [地址元素解析](https://github.com/yihenglu/chinese-address-segment)
 4. [中文地址切分及补全](https://github.com/tidalmelon/addrseg)
 5. [CCKS2021中文地址要素解析](https://github.com/xueyouluo/ccks2021-track2-code)
