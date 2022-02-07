@@ -33,8 +33,7 @@ print("Hello NLP!")
 
 **地址画像:**
 
-<center>中文地址</center>
-
+- KW: 中文地址
 1. [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR)
 2. [Pyunit-Address](https://github.com/PyUnit/pyunit-address)
 3. [地址元素解析](https://github.com/yihenglu/chinese-address-segment)
