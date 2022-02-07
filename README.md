@@ -54,8 +54,8 @@ print("Hello NLP!")
 17. [中文地址解析](https://github.com/BlackCatXJ/ch_address_parsing)
 18. [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing)
 
-|                            候选者                            | 可行性 |     优先级      |
-| :----------------------------------------------------------: | :----: | :-------------: |
-| [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR) |   √    |   👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿    |
-|  [Pyunit-Address](https://github.com/PyUnit/pyunit-address)  |   ×    |      👨🏿‍🤝‍👨🏿      |
-| [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |   √    | 👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿 |
+|  ID  |                            候选者                            | 可行性 |     优先级      |
+| :--: | :----------------------------------------------------------: | :----: | :-------------: |
+|  1   | [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR) |   √    |   👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿    |
+|  2   |  [Pyunit-Address](https://github.com/PyUnit/pyunit-address)  |   ×    |      👨🏿‍🤝‍👨🏿      |
+|  3   | [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |   √    | 👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿 |
