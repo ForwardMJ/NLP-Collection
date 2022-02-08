@@ -39,73 +39,237 @@ print("Hello NLP!")
 4. [Excel在线转Markdown或HTML](http://www.tablesgenerator.com)
 
 
-<p align="center">KeyWords：中文地址|地址解析|地址相似度|地址相关性检索结果汇总</p>
-  
-|  ID  |                            候选者                            |   语言   | 可行性 | 相关性 | 完整性(code+data) | 备注 |
-| :--: | :----------------------------------------------------------: | :------: | :----: | :----: | :---------------: | :--: |
-|  1   | [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR) |  Python  |        |        |                   |      |
-|  2   |  [Pyunit-Address](https://github.com/PyUnit/pyunit-address)  |  Python  |        |        |                   |      |
-|  3   | [中文地址元素解析](https://github.com/yihenglu/chinese-address-segment) |  Python  |        |        |                   |      |
-|  4   | [中文地址切分及补全](https://github.com/tidalmelon/addrseg)  |  Python  |        |        |                   |      |
-|  5   | [中文地址解析](https://github.com/BlackCatXJ/ch_address_parsing) |  Python  |        |        |                   |      |
-|  6   | [中文地址全称解析](https://github.com/orgatAI/address-parser) |  Python  |        |        |                   |      |
-|  7   | [中文地址识别](https://github.com/gump1368/address-recognition) |  Python  |        |        |                   |      |
-|  8   | [中文地址标准化](https://github.com/zzd1990421/AddressFormat) |  Python  |        |        |                   |      |
-|  9   | [中文地址规范化](https://github.com/wangyulu1993/ranqi_word_split) |  Python  |        |        |                   |      |
-|  10  | [地址语义搜索解析(TF-IDF)](https://github.com/liuzhibin-cn/address-semantic-search) | **Java** |        |        |                   |      |
-|  11  | [地址标准化和相似度计算-Geocoding](https://github.com/IceMimosa/geocoding) | **Java** |        |        |                   |      |
-|  12  | [地址相似度](https://github.com/Janly238/address_similirity) |  Python  |        |        |                   |      |
-|  13  | [中文地址解析-English](https://github.com/leodotnet/neural-chinese-address-parsing) |  Python  |        |        |                   |      |
-|  14  | [中文地址分词](https://github.com/SuperMap/address-matching) |  Python  |        |        |                   |      |
-|  15  | [中文地址解析](https://github.com/CivicKnowledge/address_parser) |  Python  |        |        |                   |      |
-|  16  | [CCKS2021中文地址要素解析](https://github.com/xueyouluo/ccks2021-track2-code) |  Python  |        |        |                   |      |
-|  17  | [CCKS2021中文地址相关性](https://github.com/wodejiafeiyu/ccks2021-track3-top1) |  Python  |        |        |                   |      |
-|  18  | [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |  Python  |        |        |                   |      |
-|  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |  Python  |        |        |                   |      |
-
-
 <html>
-    <body class="typora-export os-windows">
-        <div id="write" class="is-node show-fences-line-number">
-            <p></p>
-            <!--figure标签规定独立的流内容，如图表和图片等，它们与主内容相关，但元素的位置相对于主内容是独立的-->
+    <body>
+        <div id='write' class='is-node show-fences-line-number'>
             <figure>
-                <p align="center">这是标题</p>
+                <p align="center">KeyWords: 中文地址|地址解析|地址相似度|地址相关性检索结果</p>
                 <table align="center">
-                    <!--table_head: 表头-->
                     <thead>
-                        <!--table_row: 表行-->
                         <tr>
                             <th align="center">ID</th>
                             <th align="center">候选者</th>
+                            <th align="center">语言</th>
                             <th align="center">可行性</th>
-                            <th align="center">优先级</th>
+                            <th align="center">相关性</th>
+                            <th align="center">完整性(code+data)</th>
+                            <th align="center">备注</th>
                         </tr>
                     </thead>
-                    <!--table_body: 表体-->
+                    <!--核心内容-->
                     <tbody>
                         <tr>
                             <td align="center">1</td>
                             <td align="center">
-                                <a href="https://github.com/Walleclipse/ChineseAddress_OCR">中文地址OCR识别</a>
+                                <a href='https://github.com/Walleclipse/ChineseAddress_OCR'>中文地址OCR识别</a>
                             </td>
-                            <td align="center">√</td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
                             <td align="center"></td>
                         </tr>
                         <tr>
                             <td align="center">2</td>
                             <td align="center">
-                                <a href="https://github.com/PyUnit/pyunit-address">Pyunit-Address</a>
+                                <a href='https://github.com/PyUnit/pyunit-address'>Pyunit-Address</a>
                             </td>
-                            <td align="center">×</td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
                             <td align="center"></td>
                         </tr>
                         <tr>
                             <td align="center">3</td>
                             <td align="center">
-                                <a href="https://github.com/frankhjh/Address_Element_Parsing">中文地址解析-LSTM+CRF</a>
+                                <a href='https://github.com/yihenglu/chinese-address-segment'>中文地址元素解析</a>
                             </td>
-                            <td align="center">√</td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">4</td>
+                            <td align="center">
+                                <a href='https://github.com/tidalmelon/addrseg'>中文地址切分及补全</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">5</td>
+                            <td align="center">
+                                <a href='https://github.com/BlackCatXJ/ch_address_parsing'>中文地址解析</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">6</td>
+                            <td align="center">
+                                <a href='https://github.com/orgatAI/address-parser'>中文地址全称解析</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">7</td>
+                            <td align="center">
+                                <a href='https://github.com/gump1368/address-recognition'>中文地址识别</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">8</td>
+                            <td align="center">
+                                <a href='https://github.com/zzd1990421/AddressFormat'>中文地址标准化</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">9</td>
+                            <td align="center">
+                                <a href='https://github.com/wangyulu1993/ranqi_word_split'>中文地址规范化</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">10</td>
+                            <td align="center">
+                                <a href='https://github.com/liuzhibin-cn/address-semantic-search'>地址语义搜索解析(TF-IDF)</a>
+                            </td>
+                            <td align="center">
+                                <strong>Java</strong>
+                            </td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">11</td>
+                            <td align="center">
+                                <a href='https://github.com/IceMimosa/geocoding'>地址标准化和相似度计算-Geocoding</a>
+                            </td>
+                            <td align="center">
+                                <strong>Java</strong>
+                            </td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">12</td>
+                            <td align="center">
+                                <a href='https://github.com/Janly238/address_similirity'>地址相似度</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">13</td>
+                            <td align="center">
+                                <a href='https://github.com/leodotnet/neural-chinese-address-parsing'>中文地址解析-English</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">14</td>
+                            <td align="center">
+                                <a href='https://github.com/SuperMap/address-matching'>中文地址分词</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">15</td>
+                            <td align="center">
+                                <a href='https://github.com/CivicKnowledge/address_parser'>中文地址解析</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">16</td>
+                            <td align="center">
+                                <a href='https://github.com/xueyouluo/ccks2021-track2-code'>CCKS2021中文地址要素解析</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">17</td>
+                            <td align="center">
+                                <a href='https://github.com/wodejiafeiyu/ccks2021-track3-top1'>CCKS2021中文地址相关性</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">18</td>
+                            <td align="center">
+                                <a href='https://github.com/frankhjh/Address_Element_Parsing'>中文地址解析-LSTM+CRF</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">19</td>
+                            <td align="center">
+                                <a href='https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&amp;depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&amp;dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&amp;spm=1003.2020.3001.6616.10'>
+                                一种基于有限状态机的中文地址标准化方法</a>
+                            </td>
+                            <td align="center">Python</td>
+                            <td align="center"></td>
+                            <td align="center"></td>
+                            <td align="center"></td>
                             <td align="center"></td>
                         </tr>
                     </tbody>
