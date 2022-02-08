@@ -35,6 +35,8 @@ print("Hello NLP!")
 
 1. [CSDN图片居中和大小调节](https://blog.csdn.net/qq_43012792/article/details/107896047)
 2. [Python安装离线包、在线包和Github包](https://blog.csdn.net/tandelin/article/details/103664721)
+3. [表格转HTML格式](http://pressbin.com/tools/excel_to_html_table/index.html)
+4. [Excel在线转Markdown或HTML](http://www.tablesgenerator.com)
 
 
 <p align="center">KeyWords：中文地址|地址解析|地址相似度|地址相关性检索结果汇总</p>
