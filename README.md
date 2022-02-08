@@ -279,3 +279,28 @@ print("Hello NLP!")
         </div>
     </body>
 </html>
+
+
+|  ID  |                            候选者                            | 年份 |    核心内容    | 相关性 | 完整性(code+data) | 难易度 | 进度(%) |                             备注                             |
+| :--: | :----------------------------------------------------------: | :--: | :------------: | :----: | :---------------: | :----: | :-----: | :----------------------------------------------------------: |
+|  1   | [中文地址识别](https://github.com/Walleclipse/ChineseAddress_OCR) | 2018 |    OCR识别     |  0.5   |       0.95        |        |         |                              CV                              |
+|  2   |  [Pyunit-Address](https://github.com/PyUnit/pyunit-address)  | 2020 | 地址补全和纠错 |  0.7   |       0.90        |        |         |                                                              |
+|  3   | [Chinese-Address-Segment](https://github.com/yihenglu/chinese-address-segment) | 2020 |  地址元素识别  |  0.8   |   0.4(No Data)    |        |         | [补充](https://github.com/BrowenYu/chinese-address-segmentation) |
+|  4   |   [Address-Parsing](https://github.com/tidalmelon/addrseg)   | 2019 | 地址切分及补全 |  0.7   |        0.8        |        |         |                                                              |
+|  5   | [Chinese-Address-parsing](https://github.com/BlackCatXJ/ch_address_parsing) | 2020 |    地址解析    |  0.8   |        0.8        |        |         |                                                              |
+|  6   | [Address-Parser](https://github.com/orgatAI/address-parser)  | 2017 |  地址全称解析  |  0.65  |        0.7        |        |         |                                                              |
+|  7   | [Address-Recognition](https://github.com/gump1368/address-recognition) | 2020 | 地址分析和补全 |  0.85  |       0.85        |        |         |                                                              |
+|  8   | [Address-Format](https://github.com/zzd1990421/AddressFormat) | 2019 |   地址标准化   |  0.65  |        0.7        |        |         |                             CPCA                             |
+|  9   | [Word-Split](https://github.com/wangyulu1993/ranqi_word_split) | 2016 |    地址分词    |        |                   |        |         |                                                              |
+|  10  | [地址语义搜索解析(TF-IDF)](https://github.com/liuzhibin-cn/address-semantic-search) |      |                |        |                   |        |         |                                                              |
+|  11  | [地址标准化和相似度计算-Geocoding](https://github.com/IceMimosa/geocoding) |      |                |        |                   |        |         |                                                              |
+|  12  | [地址相似度](https://github.com/Janly238/address_similirity) |      |                |        |                   |        |         |                                                              |
+|  13  | [中文地址解析-English](https://github.com/leodotnet/neural-chinese-address-parsing) |      |                |        |                   |        |         |                                                              |
+|  14  | [中文地址分词](https://github.com/SuperMap/address-matching) |      |                |        |                   |        |         |                                                              |
+|  15  | [中文地址解析](https://github.com/CivicKnowledge/address_parser) |      |                |        |                   |        |         |                                                              |
+|  16  | [CCKS2021中文地址要素解析](https://github.com/xueyouluo/ccks2021-track2-code) |      |                |        |                   |        |         |                                                              |
+|  17  | [CCKS2021中文地址相关性](https://github.com/wodejiafeiyu/ccks2021-track3-top1) |      |                |        |                   |        |         |                                                              |
+|  18  | [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |      |                |        |                   |        |         |                                                              |
+|  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |      |                |        |                   |        |         |                                                              |
+
+
