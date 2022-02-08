@@ -84,4 +84,4 @@ print("Hello NLP!")
 |  18  | [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |  Python  |        |        |                   |      |
 |  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |  Python  |        |        |                   |      |
 
-<center>**居中显示**</center>
+<p align="center">居中显示</p>
