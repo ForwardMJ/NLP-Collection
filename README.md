@@ -62,18 +62,9 @@ print("Hello NLP!")
 |  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |  Python  |        |        |                   |      |
 
 
-
-<!--Typora + HTML(检查) + Notepad++解析-->
 <html>
-  <head>
-    <meta name="generator"
-    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
-    <title></title>
-  </head>
   <body>
     <div id="write" class="is-node show-fences-line-number">
-      <p></p>
-      <figure>
         <table>
           <thead>
             <tr>
@@ -110,8 +101,6 @@ print("Hello NLP!")
             </tr>
           </tbody>
         </table>
-      </figure>
-      <p></p>
     </div>
   </body>
 </html>
