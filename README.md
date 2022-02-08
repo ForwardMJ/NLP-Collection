@@ -68,6 +68,7 @@ print("Hello NLP!")
             <p></p>
             <!--figure标签规定独立的流内容，如图表和图片等，它们与主内容相关，但元素的位置相对于主内容是独立的-->
             <figure>
+                <p align="center">这是标题</p>
                 <table align="center">
                     <!--table_head: 表头-->
                     <thead>
@@ -112,5 +113,3 @@ print("Hello NLP!")
         </div>
     </body>
 </html>
-
-
