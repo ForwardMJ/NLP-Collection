@@ -66,7 +66,7 @@ print("Hello NLP!")
 <html>
     <body>
         <table align="center">
-            <caption align="top">这是标题</caption>
+            <caption align="center">这是标题</caption>
             <thead>
                 <tr>
                     <th style="text-align:center;">ID</th>
