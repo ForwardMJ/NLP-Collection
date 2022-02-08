@@ -115,24 +115,3 @@ print("Hello NLP!")
         </div>
     </body>
 </html>
-
-
-<html>
-    <head>
-        <meta name="generator"
-        content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
-        <meta charset="utf-8" />
-        <title>无标题文档</title>
-        <script type="text/javascript" src="js/jquery-1.6.4.min.js"></script>
-    </head>
-    <body>
-        <script>
-$(function () {
-            for (var i = 1; i &lt; 8; i++) {
-                $(&quot;ul&quot;).append(&quot;&lt;li style=&#39;list-style-type:none; width:
-100px;&#39;&gt;&quot;+i+&quot;ni&quot;+i+&quot;&lt;\/li&gt;&quot;);
-            }
-        })
-</script>
-    </body>
-</html>
