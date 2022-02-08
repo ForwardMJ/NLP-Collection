@@ -79,7 +79,7 @@ print("Hello NLP!")
             <tbody>
                 <tr>
                     <td style="text-align:center;">1</td>
-                    <td style="text-align:center;">
+                    <td align="center">
                         <a href="https://github.com/Walleclipse/ChineseAddress_OCR">中文地址OCR识别</a>
                     </td>
                     <td style="text-align:center;">√</td>
