@@ -31,31 +31,6 @@ print("Hello NLP!")
 7. [基于医疗垂直领域的知识问答系统](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph)
 8. [知识图谱-小例](https://github.com/Skyellbin/neo4j-python-pandas-py2neo-v3)
 
-
-**地址画像:**
-
-- KW: 中文地址
-1. [中文地址OCR识别](https://github.com/Walleclipse/ChineseAddress_OCR)
-2. [Pyunit-Address](https://github.com/PyUnit/pyunit-address)
-3. [中文地址元素解析](https://github.com/yihenglu/chinese-address-segment)
-4. [中文地址切分及补全](https://github.com/tidalmelon/addrseg)
-5. [CCKS2021中文地址要素解析](https://github.com/xueyouluo/ccks2021-track2-code)
-6. [CCKS2021中文地址相关性](https://github.com/wodejiafeiyu/ccks2021-track3-top1)
-7. [中文地址全称解析](https://github.com/orgatAI/address-parser)
-8. [中文地址识别](https://github.com/gump1368/address-recognition)
-9. [中文地址标准化](https://github.com/zzd1990421/AddressFormat)
-10. [中文地址规范化](https://github.com/wangyulu1993/ranqi_word_split)
-11. [地址语义搜索解析(TfIdf)-Java](https://github.com/liuzhibin-cn/address-semantic-search)
-12. [地址标准化和相似度计算-Geocoding](https://github.com/IceMimosa/geocoding)
-13. [地址相似度](https://github.com/Janly238/address_similirity)
-14. [中文地址解析-English](https://github.com/leodotnet/neural-chinese-address-parsing)
-15. [中文地址分词](https://github.com/SuperMap/address-matching)
-16. [中文地址解析](https://github.com/CivicKnowledge/address_parser)
-17. [中文地址解析](https://github.com/BlackCatXJ/ch_address_parsing)
-18. [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing)
-19. [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10)
-
-
 **杂项:**
 
 1. [CSDN图片居中和大小调节](https://blog.csdn.net/qq_43012792/article/details/107896047)
@@ -85,3 +60,12 @@ print("Hello NLP!")
 |  17  | [CCKS2021中文地址相关性](https://github.com/wodejiafeiyu/ccks2021-track3-top1) |  Python  |        |        |                   |      |
 |  18  | [中文地址解析-LSTM+CRF](https://github.com/frankhjh/Address_Element_Parsing) |  Python  |        |        |                   |      |
 |  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |  Python  |        |        |                   |      |
+
+
+
+<table>
+	<tr>
+		<td>ID</td>
+		<td>NAME</td>
+	</tr>
+</table>
