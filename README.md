@@ -56,3 +56,7 @@ print("Hello NLP!")
 19. [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10)
 
 
+**杂项:**
+
+1. [CSDN图片居中和大小调节](https://blog.csdn.net/qq_43012792/article/details/107896047)
+2. [Python安装离线包、在线包和Github包](https://blog.csdn.net/tandelin/article/details/103664721)
