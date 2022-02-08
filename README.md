@@ -63,7 +63,14 @@ print("Hello NLP!")
 
 
 
-<body>
+<!--Typora + HTML(检查) + Notepad++解析-->
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <title></title>
+  </head>
+  <body>
     <div id="write" class="is-node show-fences-line-number">
       <p></p>
       <figure>
@@ -83,7 +90,7 @@ print("Hello NLP!")
                 <a href="https://github.com/Walleclipse/ChineseAddress_OCR">中文地址OCR识别</a>
               </td>
               <td style="text-align:center;">√</td>
-              <td style="text-align:center;">👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿</td>
+              <td style="text-align:center;"></td>
             </tr>
             <tr>
               <td style="text-align:center;">2</td>
@@ -91,7 +98,7 @@ print("Hello NLP!")
                 <a href="https://github.com/PyUnit/pyunit-address">Pyunit-Address</a>
               </td>
               <td style="text-align:center;">×</td>
-              <td style="text-align:center;">👨🏿‍🤝‍👨🏿</td>
+              <td style="text-align:center;"></td>
             </tr>
             <tr>
               <td style="text-align:center;">3</td>
@@ -99,7 +106,7 @@ print("Hello NLP!")
                 <a href="https://github.com/frankhjh/Address_Element_Parsing">中文地址解析-LSTM+CRF</a>
               </td>
               <td style="text-align:center;">√</td>
-              <td style="text-align:center;">👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿👨🏿‍🤝‍👨🏿</td>
+              <td style="text-align:center;"></td>
             </tr>
           </tbody>
         </table>
@@ -107,3 +114,5 @@ print("Hello NLP!")
       <p></p>
     </div>
   </body>
+</html>
+
