@@ -68,15 +68,7 @@ print("Hello NLP!")
         <title>第一次尝试让HTML表格居中</title>
     </head>
     <body>
-        <style type="text/css">
-        .mytable{
-            width: 100px;
-            height: 100px;
-            margin: 0 auto;
-        }
-        </style>
-        
-        <table class="mytable">
+        <table align="center">
             <thead>
                 <tr>
                     <th style="text-align:center;">ID</th>
