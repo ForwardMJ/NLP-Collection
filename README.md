@@ -64,11 +64,9 @@ print("Hello NLP!")
 
 <!--Typora + HTML(检查) + Notepad++解析-->
 <html>
-    <head>
-        <title>第一次尝试让HTML表格居中</title>
-    </head>
     <body>
         <table align="center">
+            <caption align="top">这是标题</caption>
             <thead>
                 <tr>
                     <th style="text-align:center;">ID</th>
