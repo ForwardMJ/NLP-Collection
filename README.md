@@ -65,8 +65,9 @@ print("Hello NLP!")
 <!--Typora + HTML(检查) + Notepad++解析-->
 <html>
     <body>
+        <p align="center">这里是表格标题</p>
         <table align="center">
-            <caption align="center">这是标题</caption>
+            <!--<caption align="center">这是标题</caption>-->
             <thead>
                 <tr>
                     <th style="text-align:center;">ID</th>
