@@ -62,49 +62,55 @@ print("Hello NLP!")
 |  19  | [一种基于有限状态机的中文地址标准化方法](https://download.csdn.net/download/weixin_39840924/11399198?utm_medium=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&depth_1-utm_source=distribute.pc_relevant_download.none-task-download-2~default~OPENSEARCH~Rate-9.dl_default&dest=https%3A%2F%2Fdownload.csdn.net%2Fdownload%2Fweixin_39840924%2F11399198&spm=1003.2020.3001.6616.10) |  Python  |        |        |                   |      |
 
 
-<!--Typora + HTML(检查) + Notepad++解析-->
 <html>
-    <body>
-        <p align="center">这里是表格标题</p>
-        <table align="center">
-            <!--<caption align="center">这是标题</caption>-->
-            <thead>
-                <tr>
-                    <th style="text-align:center;">ID</th>
-                    <th style="text-align:center;">候选者</th>
-                    <th style="text-align:center;">可行性</th>
-                    <th style="text-align:center;">优先级</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td style="text-align:center;">1</td>
-                    <td align="center">
-                        <a href="https://github.com/Walleclipse/ChineseAddress_OCR">中文地址OCR识别</a>
-                    </td>
-                    <td style="text-align:center;">√</td>
-                    <td style="text-align:center;"></td>
-                </tr>
-                <tr>
-                    <td style="text-align:center;">2</td>
-                    <td style="text-align:center;">
-                        <a href="https://github.com/PyUnit/pyunit-address">Pyunit-Address</a>
-                    </td>
-                    <td style="text-align:center;">×</td>
-                    <td style="text-align:center;"></td>
-                </tr>
-                <tr>
-                    <td style="text-align:center;">3</td>
-                    <td style="text-align:center;">
-                        <a href="https://github.com/frankhjh/Address_Element_Parsing">中文地址解析-LSTM+CRF</a>
-                    </td>
-                    <td style="text-align:center;">√</td>
-                    <td style="text-align:center;"></td>
-                </tr>
-            </tbody>
-        </table>
+    <body class="typora-export os-windows">
+        <div id="write" class="is-node show-fences-line-number">
+            <p></p>
+            <!--figure标签规定独立的流内容，如图表和图片等，它们与主内容相关，但元素的位置相对于主内容是独立的-->
+            <figure>
+                <table align="center">
+                    <!--table_head: 表头-->
+                    <thead>
+                        <!--table_row: 表行-->
+                        <tr>
+                            <th align="center">ID</th>
+                            <th align="center">候选者</th>
+                            <th align="center">可行性</th>
+                            <th align="center">优先级</th>
+                        </tr>
+                    </thead>
+                    <!--table_body: 表体-->
+                    <tbody>
+                        <tr>
+                            <td align="center">1</td>
+                            <td align="center">
+                                <a href="https://github.com/Walleclipse/ChineseAddress_OCR">中文地址OCR识别</a>
+                            </td>
+                            <td align="center">√</td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">2</td>
+                            <td align="center">
+                                <a href="https://github.com/PyUnit/pyunit-address">Pyunit-Address</a>
+                            </td>
+                            <td align="center">×</td>
+                            <td align="center"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">3</td>
+                            <td align="center">
+                                <a href="https://github.com/frankhjh/Address_Element_Parsing">中文地址解析-LSTM+CRF</a>
+                            </td>
+                            <td align="center">√</td>
+                            <td align="center"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </figure>
+            <p></p>
+        </div>
     </body>
 </html>
-
 
 
