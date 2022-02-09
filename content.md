@@ -4,7 +4,7 @@
 2. 从格式化后的内容中直接删除`<head>...</head>`、将`<th>`和`<td>`中的`style='text-align:center;'`全部替换(Ctrl+F)为`align="center"`;
 3. 在`<table>`中添加`align="center"`以保证表格整体居中，若需要为其添加标题，在`<table>`上添加`<p align="center">title</p>`即可;
 
-**2.Markdown表格内嵌列表:** 在Typora中的表格编辑时，在每一个分项前面加上`<li>`即可产生无序列表，此处尽量设置为向左对齐，接着步骤同上;
+**2.Markdown表格内嵌列表:** 在Typora中的表格编辑时，在每一个分项前面加上`<li>`即可产生无序列表，此处尽量向左对齐，接着步骤同上;
 <html>
     <body>
         <figure>
