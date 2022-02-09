@@ -166,7 +166,7 @@ print("Hello NLP!")
                         <td align="center">地址标准化和相似度计算</td>
                         <td align="center">0.85</td>
                         <td align="center">0.90</td>
-                        <td align="center"></td>
+                        <td align="center">80</td>
                         <td align="center">
                             <a href='https://github.com/liuzhibin-cn/address-semantic-search'>改进(Java)</a>
                         </td>
@@ -201,7 +201,7 @@ print("Hello NLP!")
                         <td align="center">地址解析</td>
                         <td align="center">0.40</td>
                         <td align="center">0.50</td>
-                        <td align="center"></td>
+                        <td align="center">100</td>
                         <td align="center">USA</td>
                     </tr>
                     <tr>
