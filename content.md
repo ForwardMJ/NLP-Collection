@@ -24,7 +24,7 @@
                         <td align="center">Paddle</td>
                         <td align="center">1. 支持规则地址的自动补全和纠错；
                         <br />2. 默认使用全国五级地址库，统计时间为2019年；
-                        <br />3. 对于非规则地址，提供了DL模型(Transformer)；</td>
+                        <br />3. 对于非规则地址，提供了深度学习模型(Transformer)提取；</td>
                         <td align="center">实用性较高</td>
                     </tr>
                 </tbody>
