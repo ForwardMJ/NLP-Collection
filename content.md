@@ -50,7 +50,7 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td colspan="2">武大郎</td>
+                        <td colspan="2" align="center">武大郎</td>
                     </tr>
                 </tbody>
             </table>
