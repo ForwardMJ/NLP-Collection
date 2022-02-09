@@ -38,3 +38,41 @@
     </body>
 </html>
 
+
+<html>
+    <head>
+        <meta name="generator"
+        content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+        <title></title>
+    </head>
+    <body>
+        <figure>
+            <table align="center">
+                <thead>
+                    <tr>
+                        <th colspan="3">合并三行</th>
+                        <th style='text-align:center;'>第一列</th>
+                        <th style='text-align:center;'>第二列</th>
+                        <th style='text-align:center;'>第三列</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style='text-align:center;'>第一列</td>
+                        <td style='text-align:center;'>第二列</td>
+                        <td style='text-align:center;'>第三列</td>
+                    </tr>
+                    <tr>
+                        <td style='text-align:center;'>第一列</td>
+                        <td style='text-align:center;'>第二列</td>
+                        <td style='text-align:center;'>第三列</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="4">合并四列</td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure>
+    </body>
+</html>
+
