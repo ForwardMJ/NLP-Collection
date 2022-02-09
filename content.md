@@ -58,3 +58,23 @@
         </figure>
     </body>
 </html>
+
+<html>
+    <body>
+        <figure>
+            <table align="center">
+                <thead>
+                    <tr>
+                        <th rowspan="2">武大郎</th>
+                        <th align="center">潘金莲</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center">西门庆</td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure>
+    </body>
+</html>
