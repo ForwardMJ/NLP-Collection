@@ -33,6 +33,51 @@
     </body>
 </html>
 
+
+<html>
+    <body>
+        <figure>
+            <table align="center">
+                <thead>
+                    <tr>
+                        <th style='text-align:left;'>候选者</th>
+                        <th align="center">框架</th>
+                        <th style='text-align:left;'>优点</th>
+                        <th align="center">缺点</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style='text-align:left;'>
+                            <a href='https://github.com/PyUnit/pyunit-address'>Pyunit-Address</a>
+                        </td>
+                        <td align="center">Paddle</td>
+                        <td style='text-align:left;'>1. 支持规则地址的自动补全和纠错；
+                        <br />2. 默认使用全国五级地址库，统计时间为2019年；
+                        <br />3. 对于非规则地址，提供了DL模型(Transformer)；</td>
+                        <td align="center">实用性较高</td>
+                    </tr>
+                    <tr>
+                        <td style='text-align:left;'>
+                            <a href='https://github.com/wodejiafeiyu/ccks2021-track3-top1'>CCKS2021-Track3</a>
+                        </td>
+                        <td align="center">PyTorch</td>
+                        <td style='text-align:left;'>
+                            <ul>
+                                <li>第一点</li>
+                                <li>第二点</li>
+                                <li>第三点</li>
+                            </ul>
+                        </td>
+                        <td align="center">实用性可以</td>
+                    </tr>
+                </tbody>
+            </table>
+        </figure>
+    </body>
+</html>
+
+
 <html>
     <body>
         <figure>
