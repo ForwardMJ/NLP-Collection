@@ -63,13 +63,11 @@
     <body>
         <figure>
             <table align="center">
-                <thead>
-                    <tr>
-                        <th rowspan="2">武大郎</th>
-                        <th align="center">潘金莲</th>
-                    </tr>
-                </thead>
                 <tbody>
+                    <tr>
+                        <td rowspan="2">武大郎</td>
+                        <td align="center">潘金莲</td>
+                    </tr>
                     <tr>
                         <td align="center">西门庆</td>
                     </tr>
@@ -78,3 +76,4 @@
         </figure>
     </body>
 </html>
+
