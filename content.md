@@ -76,3 +76,7 @@
         </figure>
     </body>
 </html>
+
+**4.No module named 'tensorflow.contrib'**: 
+- [Tensorflow不降级安装](https://blog.csdn.net/Rex__404/article/details/112798943)
+- [Tensorflow降低安装](https://blog.csdn.net/qq_40900585/article/details/105382992)
